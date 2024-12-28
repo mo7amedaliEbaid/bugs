@@ -1,3 +1,6 @@
-## Advanced Search => Case when it is empty => Endpoint to request a new car is required
+## Backend
+### Advanced Search => Case when it is empty => Endpoint to request a new car is required
 
-![WhatsApp Image 2024-12-28 at 03 54 59](https://github.com/user-attachments/assets/bf8bc83d-a71e-441d-9a0d-1871119169ed)
+<p float="left">
+<img src="https://github.com/mo7amedaliEbaid/bugs/blob/b22f91e5292d310efaca8b20eab257b4d1702e8b/assets/empty_advanced_search.jpeg" width="180"/>
+</p>
