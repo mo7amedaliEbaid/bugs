@@ -1,6 +1,6 @@
 ### Check Translations Before build a release
 
-```json
+```gls
 {
   "sari": "ال ساري",
   "welcome_in_sari": "اهلا بك في ال ساري",
