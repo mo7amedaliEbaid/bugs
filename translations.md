@@ -1,5 +1,4 @@
-### Check Translations Before build a release
-
+- Check translations before build release
 ```gls
 {
   "sari": "ال ساري",
