@@ -7,7 +7,8 @@
   "ar_lang": "اللغة العربية",
   "en_lang": "اللغة الانجليزية",
   "confirm": "تأكيد",
-  "intro_desc1": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص",
+  "intro_desc1": "هذا النص هو مثال لنص يمكن أن\nيستبدل
+ في نفس المساحة، لقد\nتم توليد هذا النص",
   "intro_desc2": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص",
   "intro_desc3": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص",
   "intro_desc4": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص",
@@ -222,7 +223,8 @@
   "reset_filters": "Reset Options",
   "choose_bank_account": "Choose Bank Account",
   "choose_license_status": "Choose License Status",
-  "otp_desc": "Thank you for trusting Al-Sari! To ensure the security of your information and confirm your request, we have sent a\nverification code via SMS to +966{phone}.\nPlease enter the code in the designated field below.",
+  "otp_desc": "Thank you for trusting Al-Sari! To ensure the security of your information and confirm your request,
+we have sent a\nverification code via SMS to +966{phone}.\nPlease enter the code in the designated field below.",
   "code_sent": "Code sent!",
   "confirm_order": "Confirm order",
   "resend_otp": "Resend code"
